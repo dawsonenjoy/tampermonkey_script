@@ -3,7 +3,7 @@
 // @namespace    dawsonenjoy_course_count
 // @version      0.0.1
 // @description  右边标题栏显示当前课程总课时（如果没有显示成功，请点击标题栏刷新）
-// @author       dasonenjoy
+// @author       dawsonenjoy
 // @homepageURL  https://github.com/dawsonenjoy/tampermonkey_script
 // @match        https://study.163.com/course/*
 // @match        https://ke.qq.com/course/*
